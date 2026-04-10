@@ -1,7 +1,5 @@
 <div align="center">
 
-![SaferChatAI Banner](https://saferchat.org/assets/ogbannerWebsite.png)
-
 [![Invite Bot](https://img.shields.io/badge/Add%20to%20Discord-Free%20Beta-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1254748316563017789&permissions=1374390021334&integration_type=0&scope=bot+applications.commands)
 [![Website](https://img.shields.io/badge/Website-saferchat.org-7C3AED?style=for-the-badge)](https://saferchat.org)
 [![Support Server](https://img.shields.io/badge/Support-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DnXtuaeK2W)
